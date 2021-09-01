@@ -5,4 +5,4 @@ metadata:
   description: A collection of all Backstage example components
 spec:
   targets:
-    - https://github.com/alethix/msr1/new/main/pcqs-component.yaml
+    - https://github.com/alethix/msr1/blob/main/pcqs-component.yaml

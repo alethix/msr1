@@ -5,7 +5,7 @@ metadata:
   # This is an extra long description
   description: EGIS PCQS.
   links:
-    - url: https://github.com/alethix/raven-iac
+    - url: https://github.com/alethix/raven_uc7
       title: GitHub Repo for Raven IAC
       icon: github
 spec:

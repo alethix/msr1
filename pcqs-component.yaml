@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: PCQS
+  # This is an extra long description
+  description: EGIS PCQS.
+  links:
+    - url: https://github.com/alethix/raven-iac
+      title: GitHub Repo for Raven IAC
+      icon: github
+spec:
+  type: service
+  lifecycle: experimental
+  owner: team-c
+  providesApis:
+    - petstore
+    - streetlights
+    - hello-world
